@@ -20,3 +20,13 @@ const numeroString = "456";
 // conversao explícita
 
 //console.log(Number(numeroString) + numero); Converte para numero com a função Number();
+
+
+{
+    var respostaDeTudo = 3.14
+    let idade = 42
+    const pi = 29
+   // console.log(respostaDeTudo, idade, pi)
+
+}
+console.log(respostaDeTudo, pi)
